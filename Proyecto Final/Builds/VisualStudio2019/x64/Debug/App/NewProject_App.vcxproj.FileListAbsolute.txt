@@ -1,0 +1,2 @@
+C:\Users\ignac\Documents\NewProject\Builds\VisualStudio2019\x64\Debug\App\NewProject.exe
+C:\Users\ignac\Documents\NewProject\Builds\VisualStudio2019\x64\Debug\App\NewProject.pdb
